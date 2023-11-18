@@ -45,7 +45,7 @@ In case Klippain doesn't suit your needs or if you installed it by mistake, you 
 To run the uninstall script, execute the following command over SSH:
 
 ```bash
-wget -O - https://raw.githubusercontent.com/Frix-x/klippain/main/uninstall.sh | bash
+wget -O - https://raw.githubusercontent.com/ShryuKt/klippain_Shryu/main/uninstall.sh | bash
 ```
 
   > **Note**
